@@ -1,0 +1,10 @@
+.content-container {
+  margin: 0 auto;
+  padding: 0 $m-size;
+  max-width: 80rem;
+}
+
+.button-container {
+  justify-content: space-evenly;
+  display: flex;
+}
